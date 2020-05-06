@@ -19,7 +19,7 @@
 
 **Section 1: About the Game**
 
-      This game is a type of blockbreaker with a tranquil atmosphere designed as first assignment for the course Game Engine I. This project was done during one week and is not totally complete. 
+      This game is a type of blockbreaker with a tranquil atmosphere designed as first assignment for the course Game Engine I. This project was done during one week and is not totally complete. This game will be redesigned in the future to correct bugs and implement features that were not implemented on this version. 
 
 
 **Section 2: About the Manual**
@@ -29,15 +29,9 @@
       
 ![Iconography](./Manual/Iconography.png)
 
+**Section 3: References**
 
-**Section 3: Development Process**
-
-https://trello.com/b/18JjtMkI/7378-teami-2020
-
-
-**Section 4: References**
-
-* 4.0 - Game Design *
+*3.0 - Game Design*
 
  
 bricks by CreativeGameAssets.com 
@@ -45,15 +39,15 @@ bricks by CreativeGameAssets.com
 background and characters by Philipe Gouveia 
  
  
-* 4.1 - PROGRAMMING *
+*3.1 - Programming*
  
 by Philipe Gouveia 
  
-* 4.2 - SOUND * 
+*3.2 - Soung* 
  
 piano music by ShadyDave - freesound.com 
  
 
-* 4.3 - FONT *
+*3.3 - Font*
 
  Heroes Legend by imagex Wanadoo at dafont.com
